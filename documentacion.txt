@@ -1,0 +1,49 @@
+Contenido recomendado de la documentación
+
+Título y descripción
+
+Nombre del proyecto.
+
+Breve explicación de qué hace tu aplicación.
+
+Requisitos previos
+
+Node.js versión recomendada.
+
+Base de datos (ejemplo: MySQL, MongoDB).
+
+Dependencias externas (Redis, Docker, etc.).
+
+Instalación
+
+Clonar el repositorio.
+
+Instalar dependencias con npm install o yarn.
+
+Configurar variables de entorno (.env).
+
+Uso
+
+Cómo ejecutar en modo desarrollo (npm run dev).
+
+Cómo ejecutar en modo producción (npm start).
+
+Endpoints principales con referencia a la documentación de apidoc.
+
+Estructura del proyecto
+
+Explicación breve de las carpetas (controllers, routes, middleware, config).
+
+Documentación de la API
+
+Indicar que la documentación generada con apidoc se encuentra en /docs o que se levanta con un comando (ej: npx apidoc -i routes -o docs).
+
+Enlace si la sirves desde el mismo backend (ej: /api/docs).
+
+Contribución (opcional)
+
+Guía rápida para hacer pull requests o sugerencias.
+
+Licencia (opcional)
+
+Tipo de licencia si deseas compartir el proyecto de forma libre.
